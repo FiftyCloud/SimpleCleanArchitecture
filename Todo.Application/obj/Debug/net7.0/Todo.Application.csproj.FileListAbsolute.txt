@@ -1,0 +1,17 @@
+C:\Factory\Todo\Todo.Application\bin\Debug\net7.0\Todo.Application.deps.json
+C:\Factory\Todo\Todo.Application\bin\Debug\net7.0\Todo.Application.dll
+C:\Factory\Todo\Todo.Application\bin\Debug\net7.0\Todo.Application.pdb
+C:\Factory\Todo\Todo.Application\obj\Debug\net7.0\Todo.Application.csproj.AssemblyReference.cache
+C:\Factory\Todo\Todo.Application\obj\Debug\net7.0\Todo.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Factory\Todo\Todo.Application\obj\Debug\net7.0\Todo.Application.AssemblyInfoInputs.cache
+C:\Factory\Todo\Todo.Application\obj\Debug\net7.0\Todo.Application.AssemblyInfo.cs
+C:\Factory\Todo\Todo.Application\obj\Debug\net7.0\Todo.Application.csproj.CoreCompileInputs.cache
+C:\Factory\Todo\Todo.Application\obj\Debug\net7.0\Todo.Application.dll
+C:\Factory\Todo\Todo.Application\obj\Debug\net7.0\refint\Todo.Application.dll
+C:\Factory\Todo\Todo.Application\obj\Debug\net7.0\Todo.Application.pdb
+C:\Factory\Todo\Todo.Application\obj\Debug\net7.0\ref\Todo.Application.dll
+C:\Factory\Todo\Todo.Application\bin\Debug\net7.0\Todo.Domain.dll
+C:\Factory\Todo\Todo.Application\bin\Debug\net7.0\Todo.Infrastructure.dll
+C:\Factory\Todo\Todo.Application\bin\Debug\net7.0\Todo.Domain.pdb
+C:\Factory\Todo\Todo.Application\bin\Debug\net7.0\Todo.Infrastructure.pdb
+C:\Factory\Todo\Todo.Application\obj\Debug\net7.0\Todo.Application.csproj.CopyComplete

@@ -1,0 +1,17 @@
+C:\Factory\Todo\Todo.Controllers\bin\Debug\net7.0\Todo.Controllers.deps.json
+C:\Factory\Todo\Todo.Controllers\bin\Debug\net7.0\Todo.Controllers.dll
+C:\Factory\Todo\Todo.Controllers\bin\Debug\net7.0\Todo.Controllers.pdb
+C:\Factory\Todo\Todo.Controllers\bin\Debug\net7.0\Todo.Application.dll
+C:\Factory\Todo\Todo.Controllers\bin\Debug\net7.0\Todo.Domain.dll
+C:\Factory\Todo\Todo.Controllers\bin\Debug\net7.0\Todo.Application.pdb
+C:\Factory\Todo\Todo.Controllers\bin\Debug\net7.0\Todo.Domain.pdb
+C:\Factory\Todo\Todo.Controllers\obj\Debug\net7.0\Todo.Controllers.csproj.AssemblyReference.cache
+C:\Factory\Todo\Todo.Controllers\obj\Debug\net7.0\Todo.Controllers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Factory\Todo\Todo.Controllers\obj\Debug\net7.0\Todo.Controllers.AssemblyInfoInputs.cache
+C:\Factory\Todo\Todo.Controllers\obj\Debug\net7.0\Todo.Controllers.AssemblyInfo.cs
+C:\Factory\Todo\Todo.Controllers\obj\Debug\net7.0\Todo.Controllers.csproj.CoreCompileInputs.cache
+C:\Factory\Todo\Todo.Controllers\obj\Debug\net7.0\Todo.Controllers.csproj.CopyComplete
+C:\Factory\Todo\Todo.Controllers\obj\Debug\net7.0\Todo.Controllers.dll
+C:\Factory\Todo\Todo.Controllers\obj\Debug\net7.0\refint\Todo.Controllers.dll
+C:\Factory\Todo\Todo.Controllers\obj\Debug\net7.0\Todo.Controllers.pdb
+C:\Factory\Todo\Todo.Controllers\obj\Debug\net7.0\ref\Todo.Controllers.dll
